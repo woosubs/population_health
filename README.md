@@ -1,4 +1,4 @@
 # Population Health Project 
 
 ## life table & life expectancy calculator
-This file will create a perioddic life table calculator with various estimates. Other codes may be added soon in the future. 
+This file will create a periodic life table with various estimates including nax, nqx, npx, lx, ndx, nLx, Tx, and ex. Other codes may be added soon in the future. 
