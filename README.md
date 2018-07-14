@@ -1,4 +1,4 @@
 # Population Health Projects
 
 ### 1. life table & life expectancy calculator
-This code will create a periodic life table with various estimates including nax, nqx, npx, lx, ndx, nLx, Tx, and ex, based on **Demography** (Preston et al., 2001)
+This code creates a periodic life table with various estimates including nax, nqx, npx, lx, ndx, nLx, Tx, and ex, based on **Demography** (Preston et al., 2001)
